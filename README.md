@@ -52,7 +52,7 @@
 ## Database
 
 ### lndcollege.co.in [🔎 &#x2192;](https://lndcollege.co.in/)
-<div align="center"><img src="screenshot/database/database_lndcollege.png" width="500" /></div>
+<div align="center"><img src="screenshot/database/database_lndcollege.png" width="700" /></div>
 
 ### federalbank.co.in [🔎 &#x2192;](https://www.federalbank.co.in/)
 <div align="center"><img src="screenshot/database/federalbank_co_in.png" width="500" /></div>
@@ -88,7 +88,7 @@
 <div align="center"><img src="screenshot/database/kuvingsindia_in.png" width="500" /></div>
 
 ### Indian Databases [🔎 &#x2192;]()
-<div align="center"><img src="screenshot/database/INDIAN PREMIUM DATABASES +10GB.png" width="500" /></div>
+<div align="center"><img src="screenshot/database/INDIAN_PREMIUM_DATABASES.png" width="500" /></div>
 
 ### bhc.edu.in [🔎 &#x2192;](https://bhc.edu.in/)
 <div align="center"><img src="screenshot/database/bhc_edu_in.png" width="500" /></div>
