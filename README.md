@@ -52,5 +52,47 @@
 ## Database
 
 ### lndcollege.co.in [🔎 &#x2192;](https://lndcollege.co.in/)
-<div align="center"><img src="screenshot/43_225_55_187.png" width="500" /></div>
+<div align="center"><img src="screenshot/database/database_lndcollege.png" width="500" /></div>
+
+### federalbank.co.in [🔎 &#x2192;](https://www.federalbank.co.in/)
+<div align="center"><img src="screenshot/database/federalbank_co_in.png" width="500" /></div>
+
+### shivajicollege.ac.in [🔎 &#x2192;](https://www.shivajicollege.ac.in/)
+<div align="center"><img src="screenshot/database/shivajicollege.png" width="500" /></div>
+
+### bni-india.in [🔎 &#x2192;]()
+<div align="center"><img src="screenshot/database/Bni-India_in.png" width="500" /></div>
+
+### jawaharcustoms.gov.in [🔎 &#x2192;]()
+<div align="center"><img src="screenshot/database/jawaharcustoms_gov_in.png" width="500" /></div>
+
+### ncfe.org.in [🔎 &#x2192;]()
+<div align="center"><img src="screenshot/database/ncfe_org_in.png" width="500" /></div>
+
+### rentomojo.com [🔎 &#x2192;](https://www.rentomojo.com/)
+<div align="center"><img src="screenshot/database/rentomojo_com.png" width="500" /></div>
+
+### ruhscms.org [🔎 &#x2192;](http://ruhscms.org/)
+<div align="center"><img src="screenshot/database/ruhscms_org.png" width="500" /></div>
+
+### hoogmatic.in / vistarkriya.com [🔎 &#x2192;]()
+<div align="center"><img src="screenshot/database/hoogmatic_in_vistarkriya_com.png" width="500" /></div>
+
+### supercashback.co.in [🔎 &#x2192;](https://supercashback.co.in/)
+<div align="center"><img src="screenshot/database/supercashback_co_in.png" width="500" /></div>
+
+### collegesearch.in [🔎 &#x2192;](https://www.collegesearch.in/)
+<div align="center"><img src="screenshot/database/collegesearch_in.png" width="500" /></div>
+
+### kuvingsindia.in [🔎 &#x2192;](https://kuvingsindia.in/)
+<div align="center"><img src="screenshot/database/kuvingsindia_in.png" width="500" /></div>
+
+### Indian Databases [🔎 &#x2192;]()
+<div align="center"><img src="screenshot/database/INDIAN PREMIUM DATABASES +10GB.png" width="500" /></div>
+
+### bhc.edu.in [🔎 &#x2192;](https://bhc.edu.in/)
+<div align="center"><img src="screenshot/database/bhc_edu_in.png" width="500" /></div>
+
+### digitalstrategyconsultants.in [🔎 &#x2192;](https://digitalstrategyconsultants.in/)
+<div align="center"><img src="screenshot/database/digitalstrategyconsultants_in.png" width="500" /></div>
 
