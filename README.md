@@ -9,11 +9,11 @@
 
 ## Defaced Websites
 
-### apacedevelopers.in [🔎 &#x2192;](https://apacedevelopers.in/)
-<div align="center"><img src="screenshot/apacedevelopers_in.png" width="740" /></div>
-
 ### ashwini.govindkirana.in [🔎 &#x2192;](https://ashwini.govindkirana.in/wp-login.php)
 <div align="center"><img src="screenshot/ashwini_govindkirana_in.png" width="740" /></div>
+
+### apacedevelopers.in [🔎 &#x2192;](https://apacedevelopers.in/)
+<div align="center"><img src="screenshot/apacedevelopers_in.png" width="740" /></div>
 
 ### norres.icvgroup.in [🔎 &#x2192;](https://norres.icvgroup.in/lko_nor_gur_vij_admpnl/)
 <div align="center"><img src="screenshot/norres_icvgroup_in.png" width="740" /></div>
@@ -101,3 +101,12 @@
 
 ### Ace Micromatic Group
 <div align="center"><img src="screenshot/Ransomware/Ace_Micromatic_Group.png" width="740" /></div>
+
+### National Institute of Ocean Technology
+<div align="center"><img src="screenshot/Ransomware/National_Institute_of_Ocean_Technology.png" width="740" /></div>
+
+### Gujarat Mineral
+<div align="center"><img src="screenshot/Ransomware/Gujarat_Mineral.png" width="740" /></div>
+
+### Karam Chand Thapar & Bros Coal Sales
+<div align="center"><img src="screenshot/Ransomware/Karam_Chand_Thapar_&_Bros_Coal_Sales.png" width="740" /></div>
