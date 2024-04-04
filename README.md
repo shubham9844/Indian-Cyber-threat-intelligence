@@ -1,9 +1,9 @@
 # Indian Cyber threat intelligence
 ## Monitoring Cyber Attacks On India
 
-- [Defaced Websites](#-Defaced-Websites)
-- [Database](#-Database)
-- [Ransomware](#-Ransomware)
+- [Defaced Websites](#Defaced-Websites)
+- [Database](#Database)
+- [Ransomware](#Ransomware)
 
 ---
 
