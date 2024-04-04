@@ -3,6 +3,7 @@
 
 - [Defaced Websites](#-Defaced-Websites)
 - [Database](#-Database)
+- [Ransomware](#-Ransomware)
 
 ---
 
@@ -96,3 +97,7 @@
 ### digitalstrategyconsultants.in [🔎 &#x2192;](https://digitalstrategyconsultants.in/)
 <div align="center"><img src="screenshot/database/digitalstrategyconsultants_in.png" width="740" /></div>
 
+### Ransomware
+
+### Ace Micromatic Group
+<div align="center"><img src="screenshot/Ransomware/Ace_Micromatic_Group.png" width="740" /></div>
